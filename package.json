@@ -1,0 +1,23 @@
+{
+  "name": "back-haroldapp",
+  "version": "1.0.0",
+  "description": "Api for haroldApp files",
+  "main": "server.js",
+  "scripts": {
+    "runDev":"nodemon server.js",
+    "test": "text.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msebass1/BackHaroldapp.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "mseb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msebass1/BackHaroldapp/issues"
+  },
+  "homepage": "https://github.com/msebass1/BackHaroldapp#readme"
+}
