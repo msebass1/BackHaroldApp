@@ -4,7 +4,7 @@
   "description": "Api for haroldApp files",
   "main": "server.js",
   "scripts": {
-    "runDev":"nodemon server.js",
+    "runDev": "nodemon server.js",
     "test": "text.js"
   },
   "repository": {
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/msebass1/BackHaroldapp/issues"
   },
-  "homepage": "https://github.com/msebass1/BackHaroldapp#readme"
+  "homepage": "https://github.com/msebass1/BackHaroldapp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "xlsx": "^0.16.9"
+  }
 }
