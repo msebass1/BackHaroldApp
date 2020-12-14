@@ -4,8 +4,7 @@
   "description": "Api for haroldApp files",
   "main": "server.js",
   "scripts": {
-    "runDev": "nodemon server.js",
-    "test": "text.js"
+    "runDev": "nodemon server.js"
   },
   "repository": {
     "type": "git",
