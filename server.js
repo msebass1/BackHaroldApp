@@ -5,7 +5,7 @@ const port = 3001;
 app.use(require('./controllers/controller.js'));
 
 app.get('/', (req, res) => {
-  res.send('<div> cosa</div>')
+  res.send('Started running')
 });
 
 app.listen(port, () => {
